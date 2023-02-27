@@ -1,11 +1,1 @@
-Create a project for a hotel management system which deals with the problem of how to manage a hotel service like :
-
-1) Manage Rooms
-2) Check-In Room
-3) Available Rooms
-4) Search Customer
-5) Check-Out Room
-6) Guest Summary Report
-7) Exit
-
-I have made this project using C++ language.
+Design a hotel management system to address the challenge of effectively managing hotel services such as room management, room check-ins, available room tracking, customer searching, room check-outs, guest summary reporting, and system exit. The project has been implemented using the C++ programming language.
